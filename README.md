@@ -26,7 +26,7 @@ I will use the Pandas library to import and explore the dataset. The dataset is 
 - Creating new columns
 - Creating new DataFrames
 
-  [](Netflix Data Analytics .py)
+  [](NetflixDataAnalytics.py)
   
 
   
