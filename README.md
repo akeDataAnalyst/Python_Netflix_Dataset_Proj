@@ -3,7 +3,7 @@
 This project focuses on analyzing the Netflix Dataset. The dataset contains information about TV Shows and Movies available on Netflix until 2021
 
 ## Data Loading and Exploration
-I will use the Pandas library to import and explore the dataset. The dataset is in CSV format. I will use the `pd.read_csv` function to import the dataset and store it in a DataFrame named 'data'. [](file.csv)
+I will use the Pandas library to import and explore the dataset. The dataset is in CSV format. I will use the `pd.read_csv` function to import the dataset and store it in a DataFrame named 'data'. [Microsoft Excel file](file.csv)
 
 ### Basic Data Exploration Functions
 - head function: Displays the top records of the dataset
@@ -26,7 +26,7 @@ I will use the Pandas library to import and explore the dataset. The dataset is 
 - Creating new columns
 - Creating new DataFrames
 
-  [](NetflixDataAnalytics.py)
+  [Python Project file](NetflixDataAnalytics.py)
   
 
   
