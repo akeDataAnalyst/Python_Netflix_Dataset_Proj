@@ -32,6 +32,11 @@ I will use the Pandas library to import and explore the dataset. The dataset is 
 - Creating new columns
 - Creating new DataFrames
 
+## Filtering Data
+- Filtering on single column
+- Filtering on multiple columns
+- Using `AND` and `OR` operators
+
   ![](py.PNG)
 
   
