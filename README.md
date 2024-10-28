@@ -5,7 +5,7 @@ This project focuses on analyzing the Netflix Dataset. The dataset contains info
 ## Data Loading and Exploration
 I will use the Pandas library to import and explore the dataset. The dataset is in CSV format. I will use the `pd.read_csv` function to import the dataset and store it in a DataFrame named 'data'.
 
-![]()
+![](netf01.PNG)
 
 ### Basic Data Exploration Functions
 - head function: Displays the top records of the dataset
@@ -16,7 +16,7 @@ I will use the Pandas library to import and explore the dataset. The dataset is 
 - duplicate function: Used to remove duplicate records
 - isnull function: Used to find null values
 
-  ![]()
+  ![](netf02.PNG)  ![](isnull0.PNG)
 
 ## Data Analysis and Visualization
 - `isin` function: Used to filter data based on specific values
