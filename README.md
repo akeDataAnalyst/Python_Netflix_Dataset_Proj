@@ -18,7 +18,7 @@ I will use the Pandas library to import and explore the dataset. The dataset is 
 - `isin` function: Used to filter data based on specific values
 - `str.contains` function: Used to filter data based on string patterns
 - `to_datetime` function: Used to convert strings to datetime objects
-- ` groupby` function: Used to group data based on specific criteria
+- `groupby` function: Used to group data based on specific criteria
 - `min`, `max`, and `mean` functions: Used to calculate statistical measures
 - Seaborn library: Used to create visually appealing bar graphs
 
