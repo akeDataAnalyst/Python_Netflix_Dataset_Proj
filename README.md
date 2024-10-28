@@ -26,7 +26,7 @@ I will use the Pandas library to import and explore the dataset. The dataset is 
 - `min`, `max`, and `mean` functions: Used to calculate statistical measures
 - Seaborn library: Used to create visually appealing bar graphs
 
-  ![]() ![]()
+  ![](tvshowtop.PNG) ![](daten.PNG) ![]() 
 
 ## Data Manipulation
 - Creating new columns
