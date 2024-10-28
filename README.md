@@ -5,6 +5,8 @@ This project focuses on analyzing the Netflix Dataset. The dataset contains info
 ## Data Loading and Exploration
 I will use the Pandas library to import and explore the dataset. The dataset is in CSV format. I will use the `pd.read_csv` function to import the dataset and store it in a DataFrame named 'data'.
 
+![]()
+
 ### Basic Data Exploration Functions
 - head function: Displays the top records of the dataset
 - tail function: Displays the bottom records of the dataset
@@ -14,6 +16,8 @@ I will use the Pandas library to import and explore the dataset. The dataset is 
 - duplicate function: Used to remove duplicate records
 - isnull function: Used to find null values
 
+  ![]()
+
 ## Data Analysis and Visualization
 - `isin` function: Used to filter data based on specific values
 - `str.contains` function: Used to filter data based on string patterns
@@ -22,9 +26,13 @@ I will use the Pandas library to import and explore the dataset. The dataset is 
 - `min`, `max`, and `mean` functions: Used to calculate statistical measures
 - Seaborn library: Used to create visually appealing bar graphs
 
+  ![]() ![]()
+
 ## Data Manipulation
 - Creating new columns
 - Creating new DataFrames
+
+  ![]()
 
   
 
